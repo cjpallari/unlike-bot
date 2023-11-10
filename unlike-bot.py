@@ -1,11 +1,5 @@
 import tweepy
 
-# bearer token: AAAAAAAAAAAAAAAAAAAAAJe3qwEAAAAAPHHk9l1nhCb9rN60KNNeuYIU2d4%3DzyL8l71qu6hVYyiWcVRvkBI2Q1Ff9Aw59lDJvtkQvkJ4YTKopy
-# consumer key: 5YyYsGOQz51dTGT9zxpWULN3F
-# consumer secret: rndJbgdBaCDSZm3aVHl3PMHThCV1VG8iPlZe0MJyP57irTjk6R
-# access_token: 2178277220-72eoExRiqbMZCZnQiqk83SVhizf2l3yR1lQFxbE
-# access_token_secret: bBWoLIWk2Pi4EkaOlb0cVxYKh62gvVErVmUy8W728mk5K
-
 
 def authenticate_twitter():
     bearer_token = input("Enter your bearer token")
